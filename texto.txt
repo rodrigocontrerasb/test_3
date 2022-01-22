@@ -2,3 +2,10 @@
 
 
 Hola soy un simple contenido para un archivo de prueba
+
+
+metodo1() {
+
+return "commit 2";
+
+}
